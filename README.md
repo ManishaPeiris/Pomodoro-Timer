@@ -1,6 +1,6 @@
 A modern and interactive Pomodoro Timer built with React.js, Vite, Tailwind CSS, and Framer Motion. This app helps users manage their time efficiently using the Pomodoro technique, track tasks, customize work/break durations, and stay motivated with animations, background media, and progress tracking.
 
-Live View: https://taupe-kitsune-e218e6.netlify.app/
+Live View: https://gregarious-stardust-08f572.netlify.app/
 
 <img width="1873" height="900" alt="Image" src="https://github.com/user-attachments/assets/45d2e5a2-b211-4686-8fb9-ccb2b3301a37" />
 
